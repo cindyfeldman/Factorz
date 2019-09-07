@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyFactorz</string>
+    <string name="Findfactor">" 找到因素"</string>
+    <string name="button">" 因子"</string>
+    <string name="number">" 在此输入您的号码："</string>
+    <string name="title">" 影响因素："</string>
+</resources>

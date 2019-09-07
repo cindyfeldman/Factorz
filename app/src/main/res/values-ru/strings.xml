@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyFactorz</string>
+    <string name="Findfactor">" Найти фактор"</string>
+    <string name="button">" фактор"</string>
+    <string name="number">" Введите свой номер здесь:"</string>
+    <string name="title">множитель:</string>
+</resources>

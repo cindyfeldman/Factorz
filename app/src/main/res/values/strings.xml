@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EasyFactorz</string>
+    <string name="number">Type in your number here: </string>
+    <string name="Findfactor">Find the Factor</string>
+    <string name="button">Factor</string>
+    <string name="title">Factors:</string>
+</resources>
